@@ -5,12 +5,10 @@
 <title>Plate's off</title>
 </head>
 <body>
-<<<<<<< HEAD
 
 <h1>This will be the first header</h1>
-=======
+
 <h1>This will be the second header</h1>
->>>>>>> 8b2f11f0f9d43fbdb4908ff62119b08501b72c20
 </body>
 
 </html>
