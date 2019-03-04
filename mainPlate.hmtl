@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Plate's off </title>
+<link rel="stylesheet" type="text/css" href="decor.css">
+<title>Plate's off</title>
 </head>
 <body>
+
 <h1>This will be the first header</h1>
 </body>
 
