@@ -205,7 +205,14 @@ textarea.form-control { height: inherit; }
 
 .owl-carousel.dots-overlap .owl-dots .owl-dot.active span { border: 2px solid #dc3545; background: #dc3545; }
 
-#map { height: 700px; width: 100%; }
+.map {
+  height: 700px;
+  width: 100%;
+}
+
+
+
+
 
 .testimony { padding: 7em 0; background: #f7f7f7; }
 
